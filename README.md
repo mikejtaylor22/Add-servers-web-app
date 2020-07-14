@@ -1,4 +1,6 @@
-# MyFirstApp
+# Add servers
+
+##Using Bootstrap 3 for styling (npm -install --save bootstrap@3)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
